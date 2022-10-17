@@ -1,7 +1,11 @@
 
 effete 
 <<<<<<< HEAD
+<<<<<<< HEAD
 hihiiii
 =======
 sdsdsdsd
 >>>>>>> origin
+=======
+sdsdsdsd
+>>>>>>> 74d7eca55c19405b8080213eba8bbb1c9f1b04c3
